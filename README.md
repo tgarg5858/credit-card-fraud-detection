@@ -85,4 +85,4 @@ streamlit run credit_fraud_app.py
 * Try **Random Forest, XGBoost, or Neural Networks** for better accuracy.
 * Add **ROC curve, Precision, Recall, and F1-score** metrics to evaluation.
 * Secure the app with user authentication.
-* 
+  
